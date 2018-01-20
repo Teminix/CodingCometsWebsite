@@ -10,3 +10,11 @@ html, body {
   font-family: Av;
   src:url("Fonts/Raw font/AvenirLTStd-Light.otf");
 }
+@font-face {
+  font-family: sansation;
+  src:url("Fonts/Raw font/Sansation_Light.ttf")
+}
+@font-face {
+  font-family: sansation-bold;
+  src:url("Fonts/Raw font");
+}
