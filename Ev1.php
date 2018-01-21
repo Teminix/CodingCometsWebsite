@@ -37,7 +37,7 @@
 		padding-right:8px;
 		padding-left:8px;
 		display:inline-block;
-		
+
 	}
 	#main-nav li a{
 		text-decoration:none;
@@ -46,12 +46,12 @@
 	}
 	#main-nav li:hover a {
 		color:red;
-		
+
 	}
 	.container {
 		padding:0;
 	}
-	
+
   </style>
 </head>
 <body style="padding:0;">
@@ -61,21 +61,21 @@
 
         <div class="container">
 
-            
 
-                
+
+
 <div id="logo">
 
 
-		
+
 
 	</a>
-	
+
 </div>
-                
+
 
 <ul id="main-nav" class="clear">
-<li><a href="Home.html">Home</a></li>
+<li><a href="Home.php">Home</a></li>
 <li><a href="#1960">1960</a></li>
 <li><a href="#1970">1970</a></li>
 <li><a href="#1980">1980</a></li>
@@ -83,15 +83,15 @@
 <li><a href="#2000">2000</a></li>
 </ul>
 
-            
+
 
         </div><!-- container -->
 
-        <hr class="bottom-dashed">  
+        <hr class="bottom-dashed">
 
-    </div><!-- header-inner -->   
+    </div><!-- header-inner -->
 
-</header>	
+</header>
   <div id="main">
     <br>
     <br>
@@ -113,8 +113,8 @@ Monsanto developed a new herbicide using glyphosate as the active ingredient. Gl
 
   <img src="IMAGES/AGRICULTURE/pic 3.jpg">
   <img src="IMAGES/AGRICULTURE/pic 7.jpeg">
-  
-  
+
+
 <p><span class="sub-title">1975</span>
 Rotary combines are introduced
 The first twin-rotor system combine was created by Sperry-New Holland. This allowed the crop to be cut and separated in one pass over the field. For corn, it not only separated the husk and ears, but shelled the kernels, and chopped the stalks.</p>

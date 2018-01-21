@@ -44,6 +44,12 @@
         text-decoration: none;
         color:lightgreen;
       }
+      center.a a{
+        color:white;
+        font-family: verdana;
+        font-size: 75px;
+        text-decoration: none;
+      }
     </style>
 
 </head>
@@ -64,6 +70,7 @@
   <br><br>
   <center class="title">Evolution</center>
   <center class="title">of Technology</center>
+  <center class="a"><a href="Login system/index.php">Log in</a></center>
   <span class="topic" style="transform:translate(50px,10px)"><center><a href="Ev1.html">Agricultural Industry</center></span></a>
 
 </body>

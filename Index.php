@@ -100,6 +100,6 @@
     <br><br>
     <center class="title">Evolution</center>
     <center class="title">of Technology</center>
-    <center id="text"><a href="Home.html">LEARN THE EVOLUTION OF TECHNOLOGY</a></center>
+    <center id="text"><a href="Home.php">LEARN THE EVOLUTION OF TECHNOLOGY</a></center>
   </body>
 </html>
